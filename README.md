@@ -20,7 +20,7 @@ Analyzing digital economy trends through datasets like Spotify & YouTube analyti
 
 Let's connect and collaborate! 🚀
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/danylokubrak)
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/danylokubrak)
 
 
 <!--
