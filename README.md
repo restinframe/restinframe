@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm a beginner data analyst and international business student passionate about sustainability, the digital economy, and public policy. Over the last year, I've been diving deep into data analytics, working with SQL, basic Python, and business intelligence to drive insights.
 
 🛠 Tech & Skills:
