@@ -2,17 +2,17 @@ I'm a beginner data analyst and international business student passionate about 
 
 🛠 Tech & Skills:
 
-SQL (MySQL, PostgreSQL)
-Data visualization & storytelling
-Market research & business analysis
+- SQL (MySQL, PostgreSQL)
+- Data visualization & storytelling
+- Market research & business analysis
 
 💡 Projects:
 
-Data visualizations using Tableau
-Retention, Cohorts & Churn Analysis
-CLV, Customer Segmentation & RFM Analysis
-Marketing Analytics: Analyzing User Engagement Across Campaigns
-Analyzing digital economy trends through datasets like Spotify & YouTube analytics
+- Data visualizations using Tableau
+- Retention, Cohorts & Churn Analysis
+- CLV, Customer Segmentation & RFM Analysis
+- Marketing Analytics: Analyzing User Engagement Across Campaigns
+- Analyzing digital economy trends through datasets like Spotify & YouTube analytics
 
 📍 Currently based in Paris, previously in Vilnius & Kyiv.
 
